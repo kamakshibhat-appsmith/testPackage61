@@ -15,7 +15,8 @@
     ],
     "invalidState": {
       "packageName": "New Untitled Package 1 W/0 publish",
-      "moduleName": "JSModule2"
+      "moduleName": "JSModule2",
+      "originPackageId": "65f1c4b0f044d9071e90fbdc"
     },
     "userPermissions": []
   },

@@ -16,7 +16,8 @@
     ],
     "invalidState": {
       "packageName": "New Untitled Package 1 W/0 publish",
-      "moduleName": "QueryModule2"
+      "moduleName": "QueryModule2",
+      "originPackageId": "65f1c4b0f044d9071e90fbdc"
     },
     "userPermissions": []
   },
